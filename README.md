@@ -1,8 +1,18 @@
-### Hi there 👋
+### Bem vindos ao meu perfil 👋
 
-<!--
-**Bruno-R-Lima/Bruno-R-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-atualmente estou terminando 1° periad da  em desenvolvimento  e anali de sistems pela facimp wyden.
-buscom conhecimento e desafios para evoluir  mais nesse novo mundo que estou percorrendo.
-estou focan no front-end, estudando html, css e começado em java scrip.
+Meu nome é Bruno Rafael de lima atualmente estou terminando 1° período em desenvolvimento  e análise de sistemas pela facimp wyden.
+
+Busco conhecimento e desafios para evoluir mais e mais nesse novo mundo que estou percorrendo,
+estou focando em desenvolvimento web e cada passo que dou me mostra o quanto é vasto e incrível essa área. 
+<br>
+
+<!-- git status -->
+
+<div align= "center">
+    <!-- <img height="180em" src="https://github-readme-start.vercel.app/api?username=Bruno-R-Lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-R-Lima&layout=compact&langs_count=7&theme=dark"/>
+
+<!-- temas: dark radical merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+<div/>
